@@ -1,9 +1,6 @@
 # Getting Started with Create React App
 
 
-<img align="left" alt="Nepal" width="46px" src="" />
-<img align="left" alt="Nepal" width="46px" src="https://t3.ftcdn.net/jpg/01/74/67/08/240_F_174670852_YXvoPN8GvhfYPvpIKKXlgmj8knejHKdf.jpg" />
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
